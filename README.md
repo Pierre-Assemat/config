@@ -1,8 +1,13 @@
 # README config
 
-Linux configuration:
-
+## Linux configuration:
 - `.bashrc`: To configure the terminal
-- `.bash_aliases`: To add new alias
-- `.toolsList.txt`: Contain a list of Linux tools very usefull
-- `.secretData.txt`: This file will not be share on the Public Repository
+
+## Git
+- `git-completion.bash`
+- `git-prompt.sh`
+
+## Girder
+- `initGirderLinux.sh`: Run several commands on the shell to be ready working with Girder Core 
+- `initGirderOSX.sh`: Run several commands on the shell to be ready working with Girder Code
+
