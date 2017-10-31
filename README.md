@@ -1,2 +1,5 @@
 # config
-Linux configuration
+
+Linux configuration:
+
+- .bashrc
