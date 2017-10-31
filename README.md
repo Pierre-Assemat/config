@@ -1,6 +1,7 @@
-# config
+# README config
 
 Linux configuration:
 
-- `.bashrc`: to configure the terminal
-- `.bash_aliases`: to add new alias
+- `.bashrc`: To configure the terminal
+- `.bash_aliases`: To add new alias
+- `toolsList`: Contain a list of Linux tools very usefull
